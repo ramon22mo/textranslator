@@ -1,6 +1,5 @@
 # TexTranslator 📚🔍
 
-An application to translate words with Gemini AI API.
 ![Cover](assets/images/textranslator_cover.png)
 
 ## Requerimientos
